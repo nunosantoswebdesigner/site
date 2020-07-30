@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nunosantos.netlify.com/sitemap.xml
+Host: https://nunosantos.netlify.com
