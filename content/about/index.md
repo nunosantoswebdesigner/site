@@ -18,4 +18,4 @@ Estudei na área de Artes e viver na Holanda durante 5 anos permitiu-me visitar 
 
 A minha jornada como Web Developer começou em 2015 quando entrei num estágio profissional numa impressa de TI no [Parque Tecnológico de Óbidos](https://www.obidosparque.com/).
 
-Algumas das tecnologias em que alguns skills:
+Alguns dos meus skills:
