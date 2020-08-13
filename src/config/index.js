@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/nunosantoswebdesigner',
+      url: 'https://www.linkedin.com/in/nuno-santos-96b300125/',
     },
     {
       name: 'Codepen',
