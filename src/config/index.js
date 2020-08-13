@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://nunosantos.netlify.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: '',
   name: 'Nuno Santos',
   location: 'Caldas da Rainha, PT',
   email: 'nunosantoswebdesigner@gmail.com',
