@@ -80,7 +80,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/nunosantoswebdesigner/')
+    fetch('https://api.github.com/repos/nunosantoswebdesigner/site')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
