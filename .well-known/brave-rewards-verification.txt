@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nunosantos.netlify.app
+Token: 7e42ea0d061763762c40025b9430d2ae58d1e296184d34eb0f9e4e7ade87f604
